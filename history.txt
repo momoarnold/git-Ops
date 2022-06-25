@@ -58,5 +58,6 @@
 135
 136
 137 git status
-145 histor:wq
+145 histor:warnold 
+chang
 
