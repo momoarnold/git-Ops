@@ -1,0 +1,62 @@
+133 vim indies.html
+134
+135
+136
+137 git status
+145 history133 vim indies.html
+134
+135
+136
+137 git status
+145 history133 vim indies.html
+134
+135
+136
+137 git status
+145 history133 vim indies.html
+134
+135
+136
+137 git status
+145 history133 vim indies.html
+134
+135
+136
+137 git status
+145 history133 vim indies.html
+134
+135
+136
+137 git status
+145 history133 vim indies.html
+134
+135
+136
+137 git status
+145 history133 vim indies.html
+134
+135
+136
+137 git status
+145 history133 vim indies.html
+134
+135
+136
+137 git status
+145 history133 vim indies.html
+134
+135
+136
+137 git status
+145 history133 vim indies.html
+134
+135
+136
+137 git status
+145 history133 vim indies.html
+134
+135
+136
+137 git status
+145 histor:wq
+
